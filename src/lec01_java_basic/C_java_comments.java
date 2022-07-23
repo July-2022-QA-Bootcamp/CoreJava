@@ -14,6 +14,7 @@ It can also be used to hide program code.
 
 // This is single line comment
 // Single line comment is mostly used in coding
+// Used mostly in the beginning as a separate line or at the end of any line of code
 // How to create single line comment: for Windows user: we use ctrl + / 
 // for Mac user: we use command + / 
 
@@ -25,3 +26,4 @@ public class C_java_comments {
 	}
 
 }
+

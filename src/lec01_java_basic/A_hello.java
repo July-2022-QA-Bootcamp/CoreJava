@@ -1,6 +1,6 @@
 package lec01_java_basic;
 
-// here public -- access modifier, Hello - Class name
+// here public -- access modifier, A_hello ---> Class name
 public class A_hello {
 	// main method
 	public static void main(String[] args) {

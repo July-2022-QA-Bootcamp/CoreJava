@@ -7,7 +7,8 @@ public class E_good_evening {
 	public static void main(String[] args) {
 		System.out.print("Good Evening! ");
 		System.out.print("How are you guys doing? ");
-		System.out.print("Welcome to Enthrall IT");
+		System.out.println("Welcome to Enthrall IT"); 
+		// although it is println, but the previous 2 is print and will continue printing together
 		
 		// println -- print line by line
 		// print -- print continuously, not line by line
