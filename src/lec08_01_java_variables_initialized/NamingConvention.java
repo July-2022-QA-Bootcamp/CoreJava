@@ -1,4 +1,4 @@
-package lec07_java_variables;
+package lec08_01_java_variables_initialized;
 
 // Projects names generally starts with UpperCase
 // Camel case example for a project --> July2022CoreJava
@@ -30,7 +30,20 @@ public class NamingConvention {
 	// names like "string1, myarray1, no_1" are not acceptable as variable names
 	// because they are are not specific and can cause confusion like the variable below:
 	public String string = "String"; // not appreciated
-		
+	
+	// Constructor name is same as Class Name
+	public NamingConvention() {
+		System.out.println("From Constrcutor");
+	}
+	
+	// method names start with lowerCase
+	// method names are usually verbs or verb phrase
+	// method name can be (possible) same as Class name (important info, but not mandatory to be same as class name)
+	// no duplicate method name is accepted inside the same class
+	public static void namingConventions() { // method implemented
+		System.out.println("This is from method");
+	}
+
 	public static void main(String[] args) { 
 		System.out.println("This is all about Naming Convention");
 
