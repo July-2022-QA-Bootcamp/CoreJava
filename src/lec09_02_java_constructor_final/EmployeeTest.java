@@ -11,6 +11,7 @@ public class EmployeeTest {
 		Employee rafi = new Employee("Abdullah Rafi", 1137653, 'M', false); 
 		Employee sharon = new Employee("Sharon G", 9137653, 'F', true); 
 		Employee mizan = new Employee("Mizanur R", 5137653, 'M', true); 
+		mizan.employee("Mizanur Rahman", 20534, 'M', false);
 				
 	}
 
