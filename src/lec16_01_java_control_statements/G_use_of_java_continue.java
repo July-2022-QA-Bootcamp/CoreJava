@@ -73,3 +73,12 @@ public class G_use_of_java_continue {
 	}
 
 }
+
+/*
+ Int [] number={2,54,16,-43,3,67,32,78,100};
+Find the second largest number: 
+ */
+
+
+
+
