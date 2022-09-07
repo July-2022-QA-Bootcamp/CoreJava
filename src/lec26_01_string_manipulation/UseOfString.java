@@ -1,4 +1,4 @@
-package lec25_01_string_manipulation;
+package lec26_01_string_manipulation;
 
 import java.util.Arrays;
 

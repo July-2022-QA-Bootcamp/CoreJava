@@ -1,4 +1,4 @@
-package lec25_02_java_read_and_write;
+package lec26_02_java_read_and_write;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
