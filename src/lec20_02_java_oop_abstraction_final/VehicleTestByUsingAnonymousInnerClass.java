@@ -14,6 +14,7 @@ public class VehicleTestByUsingAnonymousInnerClass {
 		toyota.honk();
 
 		System.out.println("\n--------------------- Interface Car ------------------------\n");
+		// Interview question: what’s the other way to instantiate a interface with out implementing a class
 		Car car = new Car() { // Instantiated by anonymous inner class Car, no need of concrete class
 			
 			@Override
