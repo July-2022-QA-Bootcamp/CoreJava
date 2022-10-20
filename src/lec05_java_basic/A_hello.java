@@ -12,4 +12,4 @@ public class A_hello {
 }
 
 // This part is called Editor
-// Below part where you get the outcome is called Console
+// Below part where you get the outcome as "Hello World!" is called Console
