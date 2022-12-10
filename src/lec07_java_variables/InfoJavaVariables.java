@@ -19,6 +19,7 @@ What is a Variable?
 -- Every variable must be declared to use as one data type. 
 -- Variable is also called field
 -- All the variables start with lower case
+-- Variable follow Camel Case and snake case feature
 
 Describe the classification of variables?
 -- Class Variable 2 type:

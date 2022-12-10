@@ -16,3 +16,6 @@ public class D_happyBirthDay {
 	}
 
 }
+
+// Kamala Harris (10/20/2022)
+// American lawyer, politician and 49th Vice President of the United States (2021-) who was the 1st African-American, Asian-American attorney general of California, born in Oakland, California
