@@ -28,5 +28,12 @@ public class Calculator06 {
 		int total4 = a / b;
 		System.out.println("Division of a & b: " + total4);
 	}
+	
+	public void name (String firstName) {
+		
+	}
+	
+	
+	
 
 }
